@@ -1,0 +1,18 @@
+{
+  "name": "github-hook-router",
+  "version": "1.0.0",
+  "description": "A configurable and easy to use Github event handling server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mostafa Abdelraouf <mostafa.mohmmed@gmail.com> (http://mostafa.io)",
+  "license": "MIT",
+  "dependencies": {
+    "githubhook": "git+https://git@github.com/drdrsh/node-github-hook.git"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/drdrsh/github-hook-router.git"
+  }
+}
